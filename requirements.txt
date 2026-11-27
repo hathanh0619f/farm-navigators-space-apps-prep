@@ -1,0 +1,10 @@
+requests
+pandas
+numpy
+xarray
+rioxarray
+rasterio
+geopandas
+earthaccess
+matplotlib
+jupyter
